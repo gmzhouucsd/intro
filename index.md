@@ -1,7 +1,9 @@
 # Gavin's User Page
 *Computer Programmer*
+
 In the words of Gavin:
 > I Code
+
 My favorite code: `System.out.println("Hello World);`
 My favorite website: [Google](https://google.com/)
 [Read about my favorite code](add-read-me-2/README.md)
