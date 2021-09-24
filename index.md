@@ -8,7 +8,7 @@ My favorite code: `System.out.println("Hello World);`
 
 My favorite website: [Google](https://google.com/)
 
-[Read about my favorite code](add-read-me-2/README.md)
+[Read about my favorite code](https://github.com/gmzhouucsd/intro/tree/add-read-me-2#readme)
 
 ![Cool image](https://www.trbimg.com/img-5a68a878/turbine/ct-grumpy-cat-lawsuit-20180124)
 
