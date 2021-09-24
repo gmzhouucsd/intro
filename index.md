@@ -28,3 +28,5 @@ My Goals
 - [x] get into college
 - [ ] finish college
 - [ ] get a job
+
+[Read again](https://github.com/gmzhouucsd/intro/blob/add-read-me-2/index.md#gavins-user-page)
