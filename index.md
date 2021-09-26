@@ -1,16 +1,17 @@
-# Gavin's User Page
+# Gavin Zhou
+
+![Cool image](WIN_20210926_12_23_31_Pro.jpg)
+
 *Computer Programmer*
 
 In the words of Gavin:
 > I Code
 
-My favorite code: `System.out.println("Hello World);`
+My favorite code: `System.out.println("Hello World");`
 
 My favorite website: [Google](https://google.com/)
 
 [Read about my favorite code](README.md)
-
-![Cool image](https://www.trbimg.com/img-5a68a878/turbine/ct-grumpy-cat-lawsuit-20180124)
 
 What I have coded in:
 - Java
@@ -29,4 +30,4 @@ My Goals
 - [ ] finish college
 - [ ] get a job
 
-[Read again](https://github.com/gmzhouucsd/intro/blob/add-read-me-2/index.md#gavins-user-page)
+[Read again](#gavin-zhou)
