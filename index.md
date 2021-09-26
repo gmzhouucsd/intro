@@ -1,33 +1,33 @@
 # Gavin Zhou
 
-![Cool image](WIN_20210926_12_23_31_Pro.jpg)
+![Image](WIN_20210926_12_23_31_Pro.jpg)
 
-*Computer Programmer*
+*Aspiring Computer Programmer*
 
-In the words of Gavin:
-> I Code
+My philosophy:
+> Live a life you won't regret
 
 My favorite code: `System.out.println("Hello World");`
 
-My favorite website: [Google](https://google.com/)
+My favorite website: [HackerRank](https://www.hackerrank.com/)
 
-[Read about my favorite code](README.md)
+[My favorite class](CSE110)
 
 What I have coded in:
 - Java
 - C
-- Python
 - C++   
 
-My favorites in order:
-1. Java
+What I Plan to Learn:
+1. React
 2. Python
-3. C
-4. C++
+3. Ruby
 
-My Goals
+My Goals:
 - [x] get into college
+- [ ] create a personal project
+- [ ] get an internship
 - [ ] finish college
 - [ ] get a job
 
-[Read again](#gavin-zhou)
+[Back to top](#gavin-zhou)
