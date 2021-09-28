@@ -30,6 +30,6 @@ My Goals:
 - [ ] finish college
 - [ ] get a job
 
-![Cat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theguardian.com%2Flifeandstyle%2F2020%2Fsep%2F05%2Fwhat-cats-mean-by-miaow-japans-pet-guru-knows-just-what-your-feline-friend-wants&psig=AOvVaw0BP4YV8iaRZdJOeWcW0nTT&ust=1632874881327000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjj-oyzoPMCFQAAAAAdAAAAABAD)
+![Cat](https://static01.nyt.com/images/2021/09/14/science/07CAT-STRIPES/07CAT-STRIPES-mediumSquareAt3X-v2.jpg)
 
 [Back to top](#gavin-zhou)
